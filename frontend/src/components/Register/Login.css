@@ -1,0 +1,13 @@
+.login-error {
+    color: red;
+}
+
+.btn-reg {
+    background-color: teal;
+    list-style-type: none;
+    text-decoration: none;
+    border: 1px solid black ;
+    border-radius: 5px;
+    height: 3rem;
+    color: black;
+}
